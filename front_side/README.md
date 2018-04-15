@@ -1,6 +1,6 @@
-# {{ name }}
+# Battle ship project front side 
 
-> {{ description }}
+> Front side made with vue.js and websocket
 
 ## Build Setup
 
@@ -15,4 +15,5 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![](../imgs/20180415-112543.png)
+
