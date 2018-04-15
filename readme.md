@@ -1,9 +1,9 @@
-#BattleShip
+# BattleShip
 The classic wide-known game recreated using duo of `Python` and `JavaScript`
 
 You can play it now with your friend [here](http://game.alexfilimon.ru/) 
 
-##Demo
+## Demo
 ---
 _Initial screen_
 ![](imgs/20180415-110433.png)
